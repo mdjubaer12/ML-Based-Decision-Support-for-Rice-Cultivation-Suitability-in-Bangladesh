@@ -1,6 +1,6 @@
 # RiceYieldWeatherAdvisor
 
-*Predicting Rice Production Suitability Using Synthetic Weather Data*
+*Predicting Rice Production Suitability Using Weather Data*
 
 ## Overview
 
