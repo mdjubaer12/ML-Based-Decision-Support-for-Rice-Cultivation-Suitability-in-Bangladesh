@@ -3,5 +3,15 @@
 *Predicting Rice Production Suitability Using Weather Data*
 
 ## Overview
+This repository contains code and resources for predicting daily weather suitability for rice cultivation in Bangladesh using machine learning. The system classifies conditions as "suitable" or "not suitable" based on temperature, sunshine, and rainfall data, and provides actionable recommendations for farmers.
 
-RiceYieldWeatherAdvisor is a machine learning research project aimed at forecasting whether upcoming weather conditions are favorable for rice production in Bangladesh. By generating a synthetic dataset based on historical optimum weather parameters for rice (temperature, rainfall, humidity, and sunshine duration), our supervised ML model predicts the suitability of the upcoming weather conditions for rice cultivation. If the predictions indicate unfavorable conditions, the system provides recommendations for necessary adaptations and interventions.
+## Features
+- **Dataset**: Synthetic data (10,000 samples) with 5 features:
+  - `Season`
+  - `average_day_temp` (°C)
+  - `average_night_temp` (°C)
+  - `daily_sunshine_hours`
+  - `daily_rainfall` (mm)
+- **Models**: SVM, Random Forest, XGBoost, LightGBM, KNN, Logistic Regression.
+- **API Integration**: Fetch real-time weather data via OpenWeather API.
+- **Recommendations**: Mitigation steps for unfavorable conditions.
