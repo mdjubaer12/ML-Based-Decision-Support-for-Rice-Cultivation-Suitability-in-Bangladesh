@@ -90,7 +90,7 @@ rainfall_condition = (rainfall >= 2) & (rainfall <= 30)
 
 # Determine labels
 suitable = day_temp_condition & night_temp_condition & sunshine_condition & rainfall_condition
-suitability = np.where(suitable, "suitable", "not suitable")
+suitability = np.where(suitable, "suitable", "unsuitable")
 
 # Create DataFrame
 df = pd.DataFrame({

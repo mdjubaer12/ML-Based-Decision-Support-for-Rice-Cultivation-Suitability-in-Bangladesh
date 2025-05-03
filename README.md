@@ -3,7 +3,7 @@
 *Predicting Rice Production Suitability Using Weather Data*
 
 ## Overview
-This repository contains code and resources for predicting daily weather suitability for rice cultivation in Bangladesh using machine learning. The system classifies conditions as "suitable" or "not suitable" based on temperature, sunshine, and rainfall data, and provides actionable recommendations for farmers.
+This repository contains code and resources for predicting daily weather suitability for rice cultivation in Bangladesh using machine learning. The system classifies conditions as "suitable" or "unsuitable" based on temperature, sunshine, and rainfall data, and provides actionable recommendations for farmers.
 
 ## Features
 - **Dataset**: Synthetic data (10,000 samples) with 5 features:
