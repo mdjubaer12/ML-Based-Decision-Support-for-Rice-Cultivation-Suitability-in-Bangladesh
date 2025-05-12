@@ -1,4 +1,4 @@
-# 🌾 RiceYieldWeatherAdvisor
+# 🌾 ML Based Decision Support System(DSS)
 
 ## Empowering Farmers with AI-Driven Weather Insights for Rice Cultivation in Bangladesh 🌧️
 
@@ -6,9 +6,9 @@
 
 ---
 
-### 🚀 What is RiceYieldWeatherAdvisor?
+### 🚀 What is ML Based Decision Support System for Rice Cultivation Suitability?
 
-RiceYieldWeatherAdvisor is a cutting-edge machine learning project that predicts **daily weather suitability** for rice cultivation in Bangladesh. Leveraging real-time weather data from the **OpenWeather API**, this system helps farmers make informed decisions by classifying conditions as **"suitable"** or **"unsuitable"** for rice growth. It also delivers **actionable recommendations** to mitigate unfavorable conditions, empowering farmers to optimize yields and embrace climate-smart agriculture.
+ML Based Decision Support System(DSS) for Rice Cultivation Suitability is a cutting-edge machine learning project that predicts **daily weather suitability** for rice cultivation in Bangladesh. Leveraging real-time weather data from the **OpenWeather API**, this system helps farmers make informed decisions by classifying conditions as **"suitable"** or **"unsuitable"** for rice growth. It also delivers **actionable recommendations** to mitigate unfavorable conditions, empowering farmers to optimize yields and embrace climate-smart agriculture.
 
 Built on a **10,000-sample synthetic dataset** and validated with **10 years of real-world data (2013–2022)**, our models achieve **near-perfect performance (F₁ > 0.99)** on synthetic data and robust generalization (**F₁ ≈ 0.95**) on real data. Whether you're a farmer, researcher, or developer, this project offers a scalable solution for sustainable rice farming! 🌱
 
@@ -115,7 +115,7 @@ Trained and benchmarked using stratified 5-fold cross-validation:
 
 ###  Why It Matters
 
-Rice is the backbone of food security in Bangladesh, but daily weather fluctuations threaten yields. High temperatures (>35°C) cause spikelet sterility, while insufficient rainfall (<1120 mm/season) leads to drought stress. Traditional methods lack the granularity for real-time decisions. RiceYieldWeatherAdvisor bridges this gap by:
+Rice is the backbone of food security in Bangladesh, but daily weather fluctuations threaten yields. High temperatures (>35°C) cause spikelet sterility, while insufficient rainfall (<1120 mm/season) leads to drought stress. Traditional methods lack the granularity for real-time decisions. ML Based Decision Support System(DSS) bridges this gap by:
 - Providing **daily, data-driven insights** for farmers.
 - Supporting **climate-smart agriculture** in a vulnerable region.
 - Enabling **scalable, low-cost deployment** for smallholder farmers.
