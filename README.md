@@ -2,7 +2,7 @@
 
 ## Empowering Farmers with AI-Driven Weather Insights for Rice Cultivation in Bangladesh 🌧️
 
-*Predicting Daily Rice Suitability with Machine Learning and Real-Time Weather Data*
+*Predicting Daily Rice Suitability with Machine Learning and Real-Time Weather Data in Bangladesh*
 
 ---
 
