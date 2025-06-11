@@ -151,12 +151,4 @@ This project was inspired by the urgent need to address climate impacts on Bangl
 
 ---
 
-
-### 📂 Availability
-
-The source code, datasets, and models are available on GitHub:  
-🔗 [GitHub Repository URL](https://github.com/mdjubaer12/ML-Based-Decision-Support-for-Rice-Cultivation-Suitability-in-Bangladesh/)
-
----
-
 ⭐ **Star this repo** if you find it useful! Let’s make rice farming smarter, together! 🌾
